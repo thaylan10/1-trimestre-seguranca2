@@ -90,6 +90,32 @@ body{
         flex-direction: row;
     }
 }
+.parametro-senha{
+    width: 50%;
+margin: 0 auto;
+}
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
+.parametro-senha-botao
+::background-color:var(--fundo-texto);
+color: var(--branco);
+borber:2px;
+font-size:24px;
 
+
+
+
+
+
+
+
+
+
+@midia screen and (mim-width:780px){
+    ,paramentro-coluna-senha{
+        flex-direction: row;
+    }
 
 
